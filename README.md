@@ -5,4 +5,4 @@
 **后端**： express
     
     nodejs必备后端框架【express/koa2/nestjs】、数据库【mysql/mongodb/redis】
-    这里用nestjs演示分片上传
+    这里用expressjs演示分片上传
