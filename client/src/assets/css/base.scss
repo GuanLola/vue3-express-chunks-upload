@@ -1,0 +1,26 @@
+html,
+body,
+#app {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+ul, li {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+  outline: 0;
+  cursor: pointer;
+}
+
+video {
+  margin: 0;
+  padding: 0;
+}
